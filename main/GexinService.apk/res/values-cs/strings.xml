@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<string name="app_name">Název aplikace</string>
+<string name="title">aZpráva</string>
+<string name="copy_number">Kopírovat číslo</string>
+<string name="time">Čas</string>
+<string name="sender">Odesílatel</string>
+<string name="add_friends">Přidat přítele</string>
+<string name="service_name">im.gexin.talk.service.GexinMainService</string>
+<string name="support_tel">4000-900-666</string>
+<string name="helper_no">17258000</string>
+<string name="wap_page">http://wap.iGexin.com</string>
+<string name="no">Ne</string>
+<string name="yes">Ano</string>
+<string name="wap_help_page">http://wap.iGexin.com/help.php</string>
+<string name="submit">Save updated translation</string>
+<string name="support_email">support@gexin.im</string>
+<string name="on">Zap.</string>
+<string name="off">Vyp.</string>
+<string name="web_page">http://www.iGexin.com</string>
+<string name="wap_page_lava">http://wap.lava.cn</string>
+<string name="msn">MSN</string>
+<string name="gtalk">GTalk</string>
+<string name="qq">QQ</string>
+<string name="default_birthday">1990-07-15</string>
+<string name="weibo_helper_no">1725850000</string>
+<string name="at">{0}@{1}</string>
+<string name="ta">TA</string>
+<string name="unknown">Neznámý</string>
+<string name="paste">Vložit</string>
+<string name="digits">0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ@._</string>
+</resources>

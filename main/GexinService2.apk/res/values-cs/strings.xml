@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<string name="service_name">im.gexin.talk.service.GexinMainService</string>
+<string name="support_tel">4000-900-666</string>
+<string name="helper_no">17258000</string>
+<string name="wap_page">http://wap.iGexin.com</string>
+<string name="language">Jazyk</string>
+<string name="wap_help_page">http://wap.iGexin.com/help.php</string>
+<string name="submit">Save updated translation</string>
+<string name="on">Zap.</string>
+<string name="off">Vyp.</string>
+<string name="web_page">http://www.iGexin.com</string>
+<string name="msn">MSN</string>
+<string name="gtalk">GTalk</string>
+<string name="qq">QQ</string>
+<string name="weibo_helper_no">1725850000</string>
+<string name="ta">TA</string>
+<string name="gexin_for_android">Gexin pro Android</string>
+<string name="digits">0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ@._</string>
+<string name="version_name">2.3.0</string>
+<string name="account_name">iGexin.com</string>
+<string name="account_type">iGexin.com</string>
+</resources>

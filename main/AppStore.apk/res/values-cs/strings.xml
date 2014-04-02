@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<string name="app_store">Obchod s aplikacemi</string>
+<string name="app_size">Velikost:</string>
+<string name="image_content">obrázek</string>
+<string name="app_version">Verze:</string>
+<string name="app_old_tip">Aktuální verze:</string>
+<string name="app_new_tip">Nová verze:</string>
+<string name="app_size_tip">Velikost:</string>
+<string name="load_tip">Nahrávám...</string>
+<string name="noti_title_install_app_success">Instalace proběhla úspěšně</string>
+<string name="update_no_more">Vaše aplikace je nejnovější</string>
+<string name="source_official">Lewa</string>
+<string name="app_praise">Pochvaly: %1$s</string>
+<string name="app_praise_topic">Pochvaly: %1$s</string>
+<string name="app_status_download">Stáhnout</string>
+<string name="app_status_pending">Čekám</string>
+<string name="app_status_downloading">Stahuji</string>
+<string name="app_status_open">Otevřít</string>
+<string name="app_status_install">Instalovat</string>
+<string name="app_status_installing">Instaluji</string>
+<string name="app_status_load_pause">Pauza</string>
+<string name="app_status_installed">Otevřít</string>
+<string name="app_status_pause">Pauza</string>
+<string name="app_status_cancel">Zrušit</string>
+<string name="network_setting">Nastavení sítě</string>
+<string name="network_refresh">Obnovit</string>
+<string name="app_type_other">Ostatní</string>
+<string name="app_category">Kategorie:</string>
+<string name="drop_down_list_header_loading_text">Nahrávám...</string>
+<string name="drop_down_list_footer_default_text">Více</string>
+<string name="drop_down_list_footer_loading_text">Nahrávám...</string>
+</resources>

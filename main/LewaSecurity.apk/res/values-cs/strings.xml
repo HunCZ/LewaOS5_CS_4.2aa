@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Centrum zabezpečení</string>
+<string name="app_virus">Antivirus</string>
+<string name="app_clearance">Odbavení</string>
+<string name="app_speed">Zrychlit</string>
+<string name="app_autostart">Spuštění</string>
+<string name="app_antitheft">Proti krádeži</string>
+<string name="app_permmanager">správce orpávnění</string>
+<string name="app_intercept">Zachytit</string>
+<string name="app_netmgr">Měřič dat</string>
+<string name="app_push">správce push</string>
+<string name="first_use1">Nebylo proskenováno</string>
+<string name="first_use2">Prosím proskenujte</string>
+<string name="after_use1">"Naposledy bylo skenováno %1$s"</string>
+<string name="after_use2">"Knihovna virů %1$s"</string>
+<string name="after_no_version">nebyla aktualizována</string>
+</resources>
